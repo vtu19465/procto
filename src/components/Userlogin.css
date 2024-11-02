@@ -1,0 +1,19 @@
+
+.custom-container {
+    border: 1px solid #000000; 
+    border-radius: 15px; 
+    padding: 20px; 
+    padding-top: 20px;
+    
+  }
+
+  .forget {
+    color: blue; /* Default text color */
+    cursor: pointer; /* Change cursor to pointer */
+  }
+  
+  .forget:hover {
+    color: red; /* Text color on hover */
+  }
+  
+  
